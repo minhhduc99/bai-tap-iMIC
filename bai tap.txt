@@ -1,0 +1,41 @@
+Bài 1: Tính tổng bình phương các số lẻ từ 1 đến n
+Bai 2: Tìm max của 3 số a,b,c nhập từ bàn phím
+Bài 3: Nhập một số nguyên từ bàn phím, kiểm tra xem đó là số chẵn hay lẻ
+Bai 4: Tìm ước số chung lớn nhất và bội số chung nhỏ nhất của 2 số nguyên nhập từ bàn phím
+Bài 5: Nhập một số nguyên từ bàn phím. Kiểm tra một số có phải là số hoàn hảo?
+Bài 6: Nhập một số nguyên từ bàn phím. Kiểm tra một số có phải là số chính phương không?
+Bài 7: Viết chương trình in ra các số nguyên tố trong phạm vi từ 1 đến n, với n nguyên nhập từ bàn phím.
+Bài 8: Viết chương trình tính:S = 1 + x + 2x2 + 3x3 + ... + nxn Với x là số thực, n là số nguyên được nhập từ bàn phím.
+Bài 9: Viết chương trình tính giá trị của biểu thức sau:S(n) = 1 + 3 + 5 + … +(2n+1), với n bất kỳ nhập từ bàn phím.
+Bài 10: Viết chương trình nhập x, y từ bàn phím, tính giá trị của biểu thức sau:
+	  S = 2 x2 y + 1 -|x-1|       nếu x > y
+      	  S = 5 x – 3 y3 x       nếu x<=y
+
+Bài 11: Nhập vào 1 mãng số nguyên. Hiển thị dãy số đó ra màn hình.
+Bài 12: Nhập 1 mãng số nguyên đưa ra màn hình các số nguyên tố có trong mảng, vị trí các số đó trong mảng.
+Bài 13: Nhập 1 mãng số nguyên không quá 50 phần tử, in ra màn hình dãy số đã nhập
+- Đưa ra màn hình số lớn nhất có trong dãy và vị trí của nó trong dãy.
+- Đưa ra màn hình số lớn nhất có trong dãy và vị trí của nó trong dãy.
+- Tính tổng và trung bình cộng các số có trong dãy.
+ Bài 14: Nhập 1 mãng n số nguyên (0<n<30), in ra màn hình dãy số đã nhập
+- Đưa ra màn hình các số chẵn và vị trí số chẵn đó trong dãy
+- Sắp xếp dãy số theo giá trị các phần tử giảm dần.
+- Chèn số X vào dãy sao cho sau khi chèn gái trị các phần tử vẫn giảm dần(x nhập từ bàn phím.
+Bài 15: Nhập 1 mãng số thực không quá 50 phần tử, đưa ra màn hình tổng các số dương trong dãy. Xóa tất cả các số âm có trong dãy.
+Bài 16: Nhập 1 mãng số nguyên không quá 50 phần tử, đưa ra màn hình trung bình cộng các số chia hết cho 3 có trong dãy. Chèn số X vào vị trí thứ k trong dãy(x,k nhập từ bàn phím)
+Bài 17: Nhập vào ma trận nxm.
+- Hiển thị ra ma trận vừa nhập
+Bài 18: Nhập vào một ma trận n x m, in ra ma trận vừa nhập dưới dạng bảng
+- Hiển thị và tính tổng các phần tử trên hàng chẵn của ma trận
+- Tim giá trị lớn nhất trên cột 1của ma trận
+Bài 19: Nhập 2 ma trận m x n số nguyên. Tính tổng 2 ma trận
+Bài 20: Nhập ma trận n x n số nguyên. Tìm phần tử lớn nhất trên đường chéo chính.
+Nhập ma trận n x n số nguyên. Tìm phần tử lớn nhất trên đường chéo chính.
+Bài 21:Nhập vào một ma trận n x m, in ra ma trận vừa nhập dưới dạng bảng
+- Sắp xếp hàng 2 theo chiều giá trị các phần tử giảm dần.
+- Đưa ra màn hình tổng các phần tử trong ma trận
+- Tìm giá trị lớn nhất trong mảng.
+- Tìm giá trị nhỏ nhất chia hết cho 3 có trong mảng
+
+
+
